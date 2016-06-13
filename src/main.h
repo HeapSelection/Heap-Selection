@@ -1,0 +1,37 @@
+#pragma once
+
+#include <chrono>
+#include <cmath>
+#include <cstdlib>
+#include <iomanip>
+#include <iostream>
+#include <sstream>
+#include <string>
+#include <thread>
+#include <vector>
+
+#include "ClanForger.h"
+#include "SEL1.h"
+#include "CLRSMedianPartition.h"
+#include "FakePartition.h"
+#include "IncrementalNode.h"
+#include "LazyNode.h"
+#include "LazySpineNode.h"
+#include "NaiveSelect.h"
+#include "Node.h"
+#include "OneNode.h"
+#include "OptimizedCLRSMedianPartition.h"
+#include "OptimizedCLRSMedianPartition2.h"
+#include "OptimizedCLRSMedianPartition3.h"
+#include "OptimizedCLRS9MedianPartition.h"
+#include "Partition.h"
+#include "RandomPartition.h"
+#include "SEL2.h"
+#include "ScanClanForger.h"
+#include "SEL3.h"
+#include "SEL4.h"
+#include "Select.h"
+#include "SortClanForger.h"
+#include "SparseNode.h"
+#include "test.h"
+#include "WorstSpineNode.h"
